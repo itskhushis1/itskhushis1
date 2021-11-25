@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+You have finally discovered my Github profile.
 <!--
 **itskhushis1/itskhushis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +18,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskhushis1&layout=compact&theme=radical&hide_border=true)](https://github.com/itskhushis1) 
 
 
+<i>Follow me around the web:</i><br>
 
+<a href="https://www.linkedin.com/in/khushis23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/khussshiiee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/itskhushis1" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+</div>
 
