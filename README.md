@@ -6,6 +6,8 @@
 
 
    ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskhushis1&theme=nord_dark)
+   
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itskhushis1&theme=radical&hide_border=true)](https://git.io/streak-stats) 
        
    [![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=itskhushis1&theme=react-dark)](https://github.com/itskhushis1/github-readme-activity-graph)
    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itskhushis1&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itskhushis1&theme=nord_dark)
@@ -24,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itskhushis1&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 
 
