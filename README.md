@@ -1,7 +1,7 @@
 ### Hi there!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 
-You have finally discovered my Github profile !!
+### You have finally discovered my Github profile !!
 
 
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-<i>Follow me around the web:</i><br>
+### <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/khushis23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/khussshiiee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
