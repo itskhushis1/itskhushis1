@@ -56,5 +56,8 @@ Here are some ideas to get you started:
    <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
   
  ##
-   ![](https://komarev.com/ghpvc/?username=itskhushis1&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=itskhushis1.itskhushis1)
+ <p align="center">
 
+   ![](https://komarev.com/ghpvc/?username=itskhushis1&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=itskhushis1.itskhushis1)
+   
+</p>
