@@ -5,9 +5,12 @@
 
 
 
+
+
+
    ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskhushis1&theme=nord_dark) 
    
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itskhushis1&theme=radical&hide_border=truewidth=100)](https://git.io/streak-stats) 
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itskhushis1&theme=radical&hide_border=true)](https://git.io/streak-stats) 
        
   
    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itskhushis1&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itskhushis1&theme=nord_dark)
