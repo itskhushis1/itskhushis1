@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/khussshiiee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/itskhushis1" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="mailto:khushisharma1283@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.hackerrank.com/khushis_23" target="_blank"><img src=	"https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
+<a href="https://www.hackerrank.com/khushis_23" target="_blank"><img src=	"https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" img height="20" alt="Hackerrank"></a>
 <a href="https://stackoverflow.com/users/15394369/khushi-sharma" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" img height="20" alt="stackoverflow" style="margin-bottom: 2px;" /></a>  
 </div>
 
