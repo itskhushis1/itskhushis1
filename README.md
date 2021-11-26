@@ -1,6 +1,9 @@
 ### Hi there!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-You have finally discovered my Github profile.
+
+You have finally discovered my Github profile !!
+
+
 
    ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskhushis1&theme=nord_dark)
        
@@ -36,5 +39,5 @@ Here are some ideas to get you started:
 <a href="https://www.codechef.com/users/khushis_23" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" img height="21" alt="Codechef" style="margin-bottom: 2px;" /></a> 
 </div>
 
-![](https://komarev.com/ghpvc/?username=itskhushis1&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=itskhushis1.itskhushis1)
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  ![](https://komarev.com/ghpvc/?username=itskhushis1&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=itskhushis1.itskhushis1)
+   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
