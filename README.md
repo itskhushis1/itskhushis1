@@ -5,6 +5,8 @@ You have finally discovered my Github profile.
    ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskhushis1&theme=nord_dark)
        
    [![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=itskhushis1&theme=react-dark)](https://github.com/itskhushis1/github-readme-activity-graph)
+   
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskhushis1&theme=nord_dark)
 
 <!--
 **itskhushis1/itskhushis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
