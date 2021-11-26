@@ -26,7 +26,5 @@ Here are some ideas to get you started:
 <a href="mailto:khushisharma1283@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=itskhushis1&color=brightgreen)
-
-![](https://visitor-badge.glitch.me/badge?page_id=itskhushis1.itskhushis1)
+![](https://komarev.com/ghpvc/?username=itskhushis1&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=itskhushis1.itskhushis1)
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
