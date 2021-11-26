@@ -1,10 +1,9 @@
 ### Hi there!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 You have finally discovered my Github profile.
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskhushis1&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskhushis1&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskhushis1&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskhushis1&theme=nord_bright)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskhushis1&theme=nord_dark))
+
 [![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=itskhushis1&theme=react-dark)](https://github.com/itskhushis1/github-readme-activity-graph)
 
 <!--
