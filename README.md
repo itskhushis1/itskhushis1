@@ -9,7 +9,7 @@
 
 
    ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskhushis1&theme=nord_dark) 
-  
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itskhushis1&theme=node_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
    
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itskhushis1&theme=radical&hide_border=true)](https://git.io/streak-stats) 
        
