@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itskhushis1&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskhushis1&layout=compact&theme=radical&hide_border=true)](https://github.com/itskhushis1) 
+
 
 
 <i>Follow me around the web:</i><br>
