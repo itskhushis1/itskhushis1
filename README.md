@@ -1,5 +1,6 @@
 ##  Hi there!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-  https://linktr.ee/Khushis23
+ 
+ <a href="  https://linktr.ee/Khushis23">
 
 
 
