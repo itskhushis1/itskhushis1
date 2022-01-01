@@ -49,10 +49,14 @@ Here are some ideas to get you started:
    
 <a href="https://linktr.ee/Khushis23" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black"
 img height="21" alt="Linktree"></a>
+   
+   
+
 <a href="https://www.linkedin.com/in/khushis23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/khussshiiee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/itskhushis1" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="mailto:khushisharma1283@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://open.spotify.com/user/mny2nnct0mdeccpwtdn2jox74?si=b454b5b8adc44875" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
    
    
 <a href="https://www.hackerrank.com/khushis_23" target="_blank"><img src=	"https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" img height="21" alt="Hackerrank"></a>
