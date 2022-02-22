@@ -63,7 +63,7 @@ img height="21" alt="Linktree"></a>
 <a href="https://leetcode.com/khushisharma1283/" target="_blank"><img src=	"https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" img height="21" alt="Leetcode"></a>
 <a href="https://stackoverflow.com/users/15394369/khushi-sharma" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" img height="21" alt="stackoverflow" style="margin-bottom: 2px;" /></a> 
 <a href="https://www.codechef.com/users/khushis_23" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" img height="21" alt="Codechef" style="margin-bottom: 2px;" /></a> 
-<a href="https://auth.geeksforgeeks.org/user/khushisharma1283/practice" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" img height="21" alt="Codechef" style="margin-bottom: 2px;" /></a>    
+<a href="https://auth.geeksforgeeks.org/user/khushisharma1283/practice" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" img height="21" alt="GeeksforGeeks" style="margin-bottom: 2px;" /></a>    
 </div>
 
   
