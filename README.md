@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm Khushi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> </h1>
+   <h1>Hi there, I'm Khushi  </h1>
    <p align="center">
   <img width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
