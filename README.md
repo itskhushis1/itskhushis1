@@ -15,10 +15,6 @@ Personal and professional growth are paramount to me. I thrive in dynamic enviro
 🔭 Projects and Contributions
 On my GitHub, you will find a collection of projects that showcase my dedication to learning and applying my computer science skills. From data analysis and visualization using Python's NumPy, Pandas, and Matplotlib to web development with Django, my repositories reflect my diverse interests and technical expertise. I am always open to feedback, suggestions, and collaboration opportunities.
 
-📫 Let's Connect
-If you are interested in collaborating or have any questions, feel free to reach out to me. I am eager to connect with fellow developers, researchers, and enthusiasts who share a passion for technology and continual learning. Let's embark on a journey of exploration and growth together!
-
-Thank you for visiting my GitHub profile, and I look forward to connecting with you!
   <img width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
 
