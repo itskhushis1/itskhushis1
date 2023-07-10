@@ -3,7 +3,7 @@
    <p align="center">
    I'm a passionate computer science student constantly seeking new projects to enhance my skills and fuel my curiosity. I'm dedicated to continual learning and exploring novel opportunities that contribute to my personal and professional growth.
 
-🔭 Projects: Check out my repositories for projects showcasing my expertise in Python (NumPy, Pandas, Matplotlib, Seaborn), SQL, PHP, R programming, and Django.
+🔭 Projects: Check out my repositories for projects showcasing my expertise in Python, SQL, and Django.
 
 🌱 Learning: I believe in the power of ongoing learning to stay updated with the latest advancements in computer science.
 
