@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm Khushi  </h1>
    <p align="center">
-   I'm a passionate computer science student constantly seeking new projects to enhance my skills and fuel my curiosity. I'm dedicated to continual learning and exploring novel opportunities that contribute to my personal and professional growth.
+   I'm a passionate computer science student constantly seeking new projects to enhance my skills and fuel my curiosity. 
 
 🔭 Projects: Check out my repositories for projects showcasing my expertise in Python, SQL, and Django.
 
@@ -9,7 +9,7 @@
 
 💡 Collaboration: I thrive in collaborative environments and welcome feedback, suggestions, and collaboration opportunities.
 
-📫 Let's Connect: I'm eager to connect with fellow developers and enthusiasts who share a passion for technology and continual learning. Reach out to me!
+📫 Let's Connect: I'm eager to connect with fellow developers who share a passion for  continual learning. Reach out to me!
 
   <img width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
