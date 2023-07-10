@@ -1,19 +1,15 @@
 <div align="center">
    <h1>Hi there, I'm Khushi  </h1>
    <p align="center">
-      I am a passionate computer science student who is constantly seeking opportunities to learn and grow. Currently pursuing my major in computer science, I am driven by a deep curiosity and an insatiable desire to explore new projects and apply the skills I have acquired throughout my academic journey.
+   I'm a passionate computer science student constantly seeking new projects to enhance my skills and fuel my curiosity. I'm dedicated to continual learning and exploring novel opportunities that contribute to my personal and professional growth.
 
-🌱 Continual Learning
-Learning is at the core of my journey. I believe in the power of continual learning to stay up-to-date with the latest advancements in the field of computer science. Whether it's diving into new programming languages, experimenting with cutting-edge technologies, or tackling complex algorithms, I embrace challenges that expand my knowledge and enhance my problem-solving abilities.
+🔭 Projects: Check out my repositories for projects showcasing my expertise in Python (NumPy, Pandas, Matplotlib, Seaborn), SQL, PHP, R programming, and Django.
 
-💡 Exploring Novel Opportunities
-I have an unwavering aspiration to explore uncharted territories and seek out novel opportunities. I actively engage in diverse projects that challenge me to think outside the box and find innovative solutions. By venturing into new domains, I aim to broaden my perspectives and push the boundaries of what I can achieve as a computer scientist.
+🌱 Learning: I believe in the power of ongoing learning to stay updated with the latest advancements in computer science.
 
-🚀 Personal and Professional Growth
-Personal and professional growth are paramount to me. I thrive in dynamic environments where I can apply my skills and collaborate with like-minded individuals. Through teamwork, I continuously enhance my abilities and contribute to meaningful projects. I am excited to be part of an ever-evolving field that offers endless possibilities for growth and development.
+💡 Collaboration: I thrive in collaborative environments and welcome feedback, suggestions, and collaboration opportunities.
 
-🔭 Projects and Contributions
-On my GitHub, you will find a collection of projects that showcase my dedication to learning and applying my computer science skills. From data analysis and visualization using Python's NumPy, Pandas, and Matplotlib to web development with Django, my repositories reflect my diverse interests and technical expertise. I am always open to feedback, suggestions, and collaboration opportunities.
+📫 Let's Connect: I'm eager to connect with fellow developers and enthusiasts who share a passion for technology and continual learning. Reach out to me!
 
   <img width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
