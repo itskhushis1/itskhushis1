@@ -26,6 +26,7 @@
 
 
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itskhushis1&theme=nord&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
    
    
 ## &#x1f4c8; GitHub Stats
