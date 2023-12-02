@@ -7,9 +7,6 @@
 
 🌱 Learning: I believe in the power of ongoing learning to stay updated with the latest advancements in computer science.
 
-💡 Collaboration: I thrive in collaborative environments and welcome feedback, suggestions, and collaboration opportunities.
-
-📫 Let's Connect: I'm eager to connect with fellow developers who share a passion for  continual learning. Reach out to me!
 
   <img width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
